@@ -1,0 +1,23 @@
+.repo-title {
+    background-color: #FF715B;
+    color: #FFFF;
+    padding: 50px;
+    text-align: center;
+}
+
+.map-container {
+    background-color: #FF715B;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.repo-card {
+    text-align: center;
+    background-color: #4C5454;
+    padding: 20px;
+    margin: 20px;
+    color: #FFFF;
+    border-radius: 10px;
+}
+
